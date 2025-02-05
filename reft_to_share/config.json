@@ -1,0 +1,94 @@
+{
+  "intervention_constant_sources": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "intervention_dimensions": [
+    2048,
+    2048,
+    2048,
+    2048
+  ],
+  "intervention_types": [
+    "<class 'pyreft.interventions.LoreftIntervention'>",
+    "<class 'pyreft.interventions.LoreftIntervention'>",
+    "<class 'pyreft.interventions.LoreftIntervention'>",
+    "<class 'pyreft.interventions.LoreftIntervention'>"
+  ],
+  "mode": "parallel",
+  "representations": [
+    [
+      8,
+      "block_output",
+      "pos",
+      1,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      15,
+      "block_output",
+      "pos",
+      1,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      8,
+      "block_output",
+      "pos",
+      1,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      15,
+      "block_output",
+      "pos",
+      1,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "sorted_keys": [
+    "layer_8_comp_block_output_unit_pos_nunit_1#0",
+    "layer_15_comp_block_output_unit_pos_nunit_1#0",
+    "layer_8_comp_block_output_unit_pos_nunit_1#1",
+    "layer_15_comp_block_output_unit_pos_nunit_1#1"
+  ],
+  "transformers_version": "4.45.1"
+}
