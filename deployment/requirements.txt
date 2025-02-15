@@ -1,7 +1,0 @@
-bitsandbytes==0.43.0
-gradio==4.26.0
-spaces==0.26.0
-huggingface-hub>=0.24.0
-pyreft @ git+https://github.com/stanfordnlp/pyreft.git
-transformers==4.48.2
-torch
